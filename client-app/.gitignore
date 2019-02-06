@@ -1,0 +1,6 @@
+client-app/node_modules/**/*
+client-app/.expo/*
+client-app/npm-debug.*
+client-app/package-lock.json
+client-app/build/**/*.js
+client-app/build/**/*.map
